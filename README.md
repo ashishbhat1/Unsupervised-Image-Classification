@@ -7,4 +7,4 @@ weights based on ImageNet classification. Since these are world leading networks
 classification accuracy, it is possible to assume that they are able to detect patterns in images
 well. The top fully connected layer of these classifiers would be removed so that the clustering
 algorithm can have direct access to the representations built by the convolutional network.
-Different clustering algorithms can then be compared in order to arrive at the best model.
+Different clustering algorithms are then compared in order to arrive at the best model.
